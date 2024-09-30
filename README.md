@@ -1,6 +1,6 @@
 
 # StealHistory
-DataHunter es una aplicación de Python que recopila el historial de Google chrome y la envía a través de Telegram. 
+StealHistory es una aplicación de Python que recopila el historial de Google chrome y la envía a través de Telegram. 
 
 ## Características principales
 
